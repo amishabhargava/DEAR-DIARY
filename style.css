@@ -1,0 +1,67 @@
+.A
+{   background-color: #E4F9F5;
+    text-align: center;
+    padding-top: 40px;
+    font-family: 'Dancing Script', cursive;
+    line-height: 25px;
+
+    }
+
+.B{text-align: center;
+}    
+
+
+
+.C{width: 200px;
+    height:200px;
+    border-radius: 100%;
+    padding: 50px;
+    display: inline-block;}
+
+body{margin: 0px;}    
+
+h1{color: #11999E;
+    font-size: 400%;    
+}
+
+
+h3{color:#11999E;
+    font-size:200%;
+}
+
+img{width: 200px;
+height:200px;
+border-radius: 30%;
+padding: 50px;
+display: inline-block;
+}
+
+p{  padding:0px 270px;
+width: 60%;
+font-size: 110%;}
+
+
+td{
+    border-style: none;
+font-size: 150%;
+    padding: 0px 50px;
+    
+}
+table{margin: 0 auto;}
+
+.D{background-color: #E4F9F5;
+text-align: center;
+padding:40px 0px;
+line-height: 50px;
+}
+
+
+hr{width: 40%;}
+
+h2{color: white;
+font-size: 200%;}
+.E{text-align: center;
+padding-bottom: 20px;}
+
+
+
